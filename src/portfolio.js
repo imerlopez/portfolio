@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Science Student and Part-time developer',
   description:
     'I’m interested in web development, mobile development and cyber security',
-  resume: 'https://drive.google.com/file/d/1gg61l7nj2SsVojflepImPADeGu4tzTL_/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1gg61l7nj2SsVojflepImPADeGu4tzTL_/view',
   social: {
     linkedin: 'https://linkedin.com/in/imer-lopez-98b39419',
     github: 'https://github.com/imerlopez',
